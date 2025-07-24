@@ -1,2 +1,14 @@
-# viettellingwebsite
-Hệ thống website hiển thị bài viết blog với giao diện trực quan, dễ sử dụng, tối ưu cho cả máy tính và thiết bị di động.
+# Viettelling Blog Reader
+
+Ứng dụng web giúp người dùng đọc blog mới hàng ngày, có phân loại chuyên mục và quản trị nội dung.
+
+## Công nghệ sử dụng
+- ReactJS
+- Firebase (Database, Auth)
+- TailwindCSS
+- React Router
+
+## Cài đặt
+```bash
+npm install
+npm start
